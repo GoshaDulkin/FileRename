@@ -1,6 +1,6 @@
 import os
 
-os.chdir('C:/Users/gdulkin/Documents/MAPScript')
+os.chdir('O:\Plant\Engineering\EMA Work Instructions\Work Instruction - Final Complete Modifiable')
 
 for f in os.listdir():
     file_name, file_ext = os.path.splitext(f)
